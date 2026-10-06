@@ -1,0 +1,46 @@
+Question 1
+In which formats can you share a notebook with other users?
+
+
+doc
+
+ppt
+
+PDF
+
+xls
+
+
+What is a feature of a JupyterLab?
+
+
+Allows support of a single HTML file format
+
+Is not an open source
+
+Interactive control of the notebook cells and output
+
+Allows access to a single Notebook
+
+
+What is one of the features of JupyterLite?
+
+Requires a dedicated server
+
+Default kernel is SQLite
+
+It is not a static website
+
+Can create interactive graphics and visualizations
+
+
+What is one of the features of GoogleColab?
+
+
+You can clone GitHub projects and execute them in GoogleColab
+
+GoogleColab projects are stored on the local machine
+
+You need to set up and install GoogleColab Jupyter notebooks
+
+GoogleColab Jupyter notebooks execute on a server
